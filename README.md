@@ -1,5 +1,8 @@
-# Versioning your Data and Scripts - corrected
+
+# Versioning your Data and Scripts 
+
 A hands-on workshop to demonstrate using GitKraken as a GUI client tot he Git Version control system
+
 
 January, 2020
 
