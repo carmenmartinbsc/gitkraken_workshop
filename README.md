@@ -1,4 +1,4 @@
-# Versioning your Data and Scripts
+## Versioning your Data and Scripts
 
 January, 2020
 
